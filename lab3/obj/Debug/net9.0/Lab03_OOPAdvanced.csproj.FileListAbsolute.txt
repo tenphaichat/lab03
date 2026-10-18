@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\orracle\lab3\lab3\bin\Debug\net9.0\Lab03_OOPAdvanced.exe
+C:\Users\USER\Downloads\orracle\lab3\lab3\bin\Debug\net9.0\Lab03_OOPAdvanced.deps.json
+C:\Users\USER\Downloads\orracle\lab3\lab3\bin\Debug\net9.0\Lab03_OOPAdvanced.runtimeconfig.json
+C:\Users\USER\Downloads\orracle\lab3\lab3\bin\Debug\net9.0\Lab03_OOPAdvanced.dll
+C:\Users\USER\Downloads\orracle\lab3\lab3\bin\Debug\net9.0\Lab03_OOPAdvanced.pdb
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\Lab03_OOPAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\Lab03_OOPAdvanced.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\Lab03_OOPAdvanced.AssemblyInfo.cs
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\Lab03_OOPAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\Lab03_OOPAdvanced.dll
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\refint\Lab03_OOPAdvanced.dll
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\Lab03_OOPAdvanced.pdb
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\Lab03_OOPAdvanced.genruntimeconfig.cache
+C:\Users\USER\Downloads\orracle\lab3\lab3\obj\Debug\net9.0\ref\Lab03_OOPAdvanced.dll
