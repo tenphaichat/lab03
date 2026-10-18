@@ -1,0 +1,10 @@
+# Visual Studio / .NET
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+_ReSharper*/
+*.suo
+*.userprefs

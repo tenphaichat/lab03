@@ -1,7 +1,7 @@
 1. HƯỚNG DẪN BIÊN DỊCH VÀ CHẠY
 - Yêu cầu môi trường: Visual Studio 2022 hoặc .NET SDK (>= .NET 8 / .NET 9).
 - Mở bằng Visual Studio:
-  + Mở file solution: lab3/IT3212_Labs.sln
+  + Mở file solution: IT3212_Labs.sln
   + Nhấn F5 hoặc Ctrl+F5 để build và chạy ứng dụng Console.
 - Chạy bằng dòng lệnh (CLI):
   + Di chuyển vào thư mục lab3:

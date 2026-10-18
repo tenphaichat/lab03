@@ -27,18 +27,18 @@ namespace Lab03_OOPAdvanced
             int chon = -1;
             while (chon != 0)
             {
-                Console.WriteLine("\nCHƯƠNG TRÌNH THỰC HÀNH LAB 3: KẾ THỪA, ĐA HÌNH, ABSTRACT & INTERFACE");
-                Console.WriteLine("1. Bài 1: Kế thừa Nguoi - SinhVien (sử dụng từ khóa base)");
-                Console.WriteLine("2. Bài 2: Ghi đè phương thức hiển thị (virtual / override)");
-                Console.WriteLine("3. Bài 3: Lớp trừu tượng NguoiHoc và tính học phí (abstract)");
-                Console.WriteLine("4. Bài 4: Interface kiểm tra dữ liệu và in (IValidatable, IPrintable)");
-                Console.WriteLine("5. Bài 5: Danh sách đa hình List<NguoiHoc> và tính tổng học phí");
-                Console.WriteLine("6. Bài 6: Hệ thống nhân viên và tính lương đa hình (NhanVien)");
-                Console.WriteLine("7. Bài 7: Quản lý phương tiện và chi phí vận hành (interface IMove)");
-                Console.WriteLine("8. Bài 8: Quản lý tài liệu thư viện (Sach, TapChi, LuanVan)");
-                Console.WriteLine("9. Bài 9: Hệ thống thanh toán đa hình (interface IPayment)");
-                Console.WriteLine("10. Bài 10: Nâng cấp ứng dụng quản lý sinh viên (đa hình, xuất dữ liệu)");
-                Console.WriteLine("0. Thoát chương trình");
+                Console.WriteLine("\nCHƯƠNG TRÌNH THỰC HÀNH LAB 3");
+                Console.WriteLine("1. Kế thừa Nguoi - SinhVien (sử dụng từ khóa base)");
+                Console.WriteLine("2. Ghi đè phương thức hiển thị (virtual / override)");
+                Console.WriteLine("3. Lớp trừu tượng NguoiHoc và tính học phí (abstract)");
+                Console.WriteLine("4. Interface kiểm tra dữ liệu và in (IValidatable, IPrintable)");
+                Console.WriteLine("5. Danh sách đa hình List<NguoiHoc> và tính tổng học phí");
+                Console.WriteLine("6. Hệ thống nhân viên và tính lương đa hình (NhanVien)");
+                Console.WriteLine("7. Quản lý phương tiện và chi phí vận hành (interface IMove)");
+                Console.WriteLine("8. Quản lý tài liệu thư viện (Sach, TapChi, LuanVan)");
+                Console.WriteLine("9. Hệ thống thanh toán đa hình (interface IPayment)");
+                Console.WriteLine("10. Ứng dụng quản lý sinh viên Console nâng cao (CRUD, xuất file)");
+                Console.WriteLine("0. Thoát");
                 Console.Write("Mời bạn chọn bài (0-10): ");
 
                 if (!int.TryParse(Console.ReadLine(), out chon))
